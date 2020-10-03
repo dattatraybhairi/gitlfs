@@ -1,0 +1,68 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "/home/vacus/.arduino15/cache/arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "eTag" : "5f270c11-1ccf4",
+    "md5" : "MD5:1ea3e227b03ad7f1e99a3af0eba84a9e",
+    "createdAt" : "2020-10-02T19:25:18.898",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-02T19:35:18.898"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "/home/vacus/.arduino15/cache/downloads.arduino.cc/libraries/library_index.json.gz",
+    "eTag" : "37cc14c598d5af4a1bf22cb853e386a6",
+    "md5" : "MD5:37cc14c598d5af4a1bf22cb853e386a6",
+    "createdAt" : "2020-10-02T19:20:12.624",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-02T23:20:12.624"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "/home/vacus/.arduino15/cache/downloads.arduino.cc/packages/package_index.json.sig",
+    "eTag" : "547ed28e3602902498defa82fdb1e18b",
+    "md5" : "MD5:547ed28e3602902498defa82fdb1e18b",
+    "createdAt" : "2020-10-02T19:19:57.987",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-02T20:19:57.987"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "/home/vacus/.arduino15/cache/downloads.arduino.cc/libraries/library_index.json.sig",
+    "eTag" : "075e5010eb90b1925a99c15ad0b31ab7",
+    "md5" : "MD5:075e5010eb90b1925a99c15ad0b31ab7",
+    "createdAt" : "2020-10-02T19:20:13.44",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-02T23:20:13.440"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "/home/vacus/.arduino15/cache/downloads.arduino.cc/packages/package_index.json",
+    "eTag" : "35298a363363609b1c4de6c90b56b102",
+    "md5" : "MD5:35298a363363609b1c4de6c90b56b102",
+    "createdAt" : "2020-10-02T19:19:57.238",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-02T20:19:57.238"
+  } ]
+}
